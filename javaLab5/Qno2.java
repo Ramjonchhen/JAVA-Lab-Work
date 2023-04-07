@@ -1,5 +1,3 @@
-package javaLab4;
-
 import java.net.*;
 
 public class Qno2 {
